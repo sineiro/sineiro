@@ -36,10 +36,6 @@
 <img src="https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge"/>
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nightb8g)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nightb8g&repo=<repo-name>)](https://github.com/anuraghazra/github-readme-stats)-->
-
 [//]: # (Links)
 
 [simple-icons]: <https://simpleicons.org/>
