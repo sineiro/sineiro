@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<link rel="stylesheet" type="text/css" media="all" href="./general.css" />
+
 I'm Daniela and I've been learning to code.
 
 <!-- I've used these:
@@ -24,7 +26,5 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/<iconname>/<icon
  online
   https://github.com/simple-icons/simple-icons/blob/develop/icons/<icon_name>.svg
   -->
-  
 
-  
-  <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dotnet.svg" />
+<img class="link-icon" height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dotnet.svg" />
