@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightb8g&langs_count=10&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/github/last-commit/nightb8g/nightb8g?label=Last%20Update&logo=github&style=for-the-badge"/>
+
 <!--
 ## All Time Languages--
 ---
@@ -10,31 +12,29 @@
 <!--![wakatime](https://wakatime.com/share/@nightb8g/4aea87cd-ee8a-4f22-8d0c-882a8cc020a4.svg)
 
 --- -->
-# Learned (sorted by usage)
+# Learning (sorted by usage)
+<!-- Programming language -->
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333"/>
+<img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=ddd"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=fff"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ddd"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=333"/>
 
-<!-- Code languages -->
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
-
-<!-- Markdown languages -->
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>
-
+<!-- Markdown language -->
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/markdown-000?style=for-the-badge"/>
 <!-- Style -->
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge"/>
 
-<!-- extra -->
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"/>
+<!-- Framework -->
+<img src="https://img.shields.io/badge/express-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/node_js-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge"/>
 
-<!-- Databases -->
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<!-- Database -->
+<img src="https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge"/>
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nightb8g)](https://github.com/anuraghazra/github-readme-stats)-->
 
