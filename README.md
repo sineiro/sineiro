@@ -8,7 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightb8g&custom_title=Most%20Used%20Languages%202022&langs_count=10&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<img src="https://img.shields.io/github/last-commit/nightb8g/nightb8g?label=Last%20Update&logo=github&style=for-the-badge"/>
+
+<!--<img src="https://img.shields.io/github/last-commit/nightb8g/nightb8g?label=Last%20Update&logo=github&style=for-the-badge"/>-->
 
 <!--
 ## All Time Languages--
