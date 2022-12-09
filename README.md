@@ -22,7 +22,7 @@
 # Learning (sorted by usage)
 <div style="margin:auto;">
 <!-- Programming language -->
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333"/> <img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=ddd"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=fff"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ddd"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=333"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333"/> <img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=ddd"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=fff"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ddd"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=333"/> <img src="https://img.shields.io/badge/c++-A8B9CC?style=for-the-badge&logo=cpp&logoColor=333"/>
 </div>
 <div style="margin:auto;">
 <!-- Markdown language -->
