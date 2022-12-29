@@ -5,7 +5,7 @@
 </div>
 <div style="margin:auto;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightb8g&custom_title=Most%20Used%20Languages%202022&langs_count=10&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightb8g&custom_title=Most%20Used%20Languages%20&langs_count=10&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
