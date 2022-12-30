@@ -5,11 +5,11 @@
 </div>
 <div style="margin:auto;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sineiro&custom_title=Top%205%20Most%20Used%20Languages%20&layout=compact&theme=react&hide_border=true)](https://github.com/nightb8g/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sineiro&custom_title=Top%205%20Most%20Used%20Languages%20&layout=compact&theme=react&hide_border=true)](https://github.com/sineiro/github-readme-stats)
 
 </div>
 
-<!--<img src="https://img.shields.io/github/last-commit/sineiro/nightb8g?label=Last%20Update&logo=github&style=for-the-badge"/>-->
+<!--<img src="https://img.shields.io/github/last-commit/sineiro/sineiro?label=Last%20Update&logo=github&style=for-the-badge"/>-->
 
 <!--
 ## All Time Languages--
