@@ -1,25 +1,21 @@
 # Repository
 <div style="margin:auto;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)]
 </div>
 <div style="margin:auto;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sineiro&custom_title=Top%205%20Most%20Used%20Languages%20&layout=compact&theme=react&hide_border=true)](https://github.com/sineiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sineiro&custom_title=Top%205%20Languages%20(Public%20Repos)%20&layout=compact&theme=react&hide_border=true)](https://github.com/sineiro/github-readme-stats)
 
 </div>
 
-<!--<img src="https://img.shields.io/github/last-commit/sineiro/sineiro?label=Last%20Update&logo=github&style=for-the-badge"/>-->
-
 <!--
-## All Time Languages--
----
-<!-- Waka share --
-<!--![wakatime](https://wakatime.com/share/@sineiro/4aea87cd-ee8a-4f22-8d0c-882a8cc020a4.svg)
+## All Time Languages
 
---- -->
+-->
 
-# Learning (sorted by usage)
+# Languages and Frameworks
+
 <div style="margin:auto;">
 <!-- Programming language -->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333"/> <img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=ddd"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=fff"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ddd"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=333"/> <img src="https://img.shields.io/badge/c++-A8B9CC?style=for-the-badge&logo=cpp&logoColor=333"/>
