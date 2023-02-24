@@ -1,4 +1,8 @@
-# Repository
+<!-- # Profile
+
+Greetings, I am Sineiro. -->
+
+## Repository
 <div style="margin:auto;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,12 +13,7 @@
 -->
 </div>
 
-<!--
-## All Time Languages
-
--->
-
-# Languages and Frameworks
+## Languages and Frameworks
 
 <div style="margin:auto;">
 <!-- Programming language -->
