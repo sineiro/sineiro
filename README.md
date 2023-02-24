@@ -1,12 +1,12 @@
 # Repository
 <div style="margin:auto;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sineiro&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="margin:auto;">
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sineiro&custom_title=Top%205%20Languages%20(Public%20Repos)%20&layout=compact&theme=react&hide_border=true)](https://github.com/sineiro/github-readme-stats)
-
+-->
 </div>
 
 <!--
